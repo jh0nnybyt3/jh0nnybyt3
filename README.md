@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola! Soy Jonathan Garcia 👋  
+🚀 Desarrollador Full Stack | 🖥️ SysAdmin | 🏫 Docente | 🔐 DevSecOps  
+📍 Argentina  
 
-<!--
-**jh0nnybyt3/jh0nnybyt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologías que uso  
 
-Here are some ideas to get you started:
+### 💻 Desarrollo  
+- 🐘 **Backend:** PHP, Python, Node.js  
+- ⚡ **Frontend:** JavaScript (ES6+) 
+- 🗄️ **Bases de Datos:** MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ DevOps & Infraestructura  
+- 🐳 **Contenedores:** Docker & Kubernetes  
+- 🔧 **Automatización:** Ansible, Terraform, GitLab CI/CD  
+- ☁️ **Virtualización & Cloud:** Proxmox, VMware
+
+### 🔐 Seguridad  
+- 🔍 **SOC & SIEM:** Wazuh, Suricata, OSSEC  
+- 🔒 **Hardening:** CIS Benchmarks  
+- 🛡️ **Pentesting:** Kali Linux  
+
+### 🌐 Redes & Sistemas  
+- 🌍 **Redes:** VLANs, VPNs (OpenVPN, WireGuard), Firewall (pfSense, iptables)  
+- 📡 **Infraestructura:** Switches HPE, Aruba, Mikrotik
+
+## 🔗 Contacto & Proyectos  
+📌 **GitHub:** [github.com/jh0nnybyt3](https://github.com/jh0nnybyt3)  
+📌 **LinkedIn:** [linkedin.com/in/jonathangabrielgarcia](https://linkedin.com/in/jonathangabrielgarcia)  
+📌 **Portfolio:** [jh0nnybyt3.github.io](https://jh0nnybyt3.github.io)  
+
+---
